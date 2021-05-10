@@ -165,7 +165,7 @@ open class Device {
             case 1180:
                 return .screen10_9Inch
             case 1194:
-                return .screen11Inch
+                return .screen11_0Inch
             case 1366:
                 return .screen12_9Inch
             default:
